@@ -1,0 +1,111 @@
+ul a{
+    left: 13%;
+    font-size: 40px;
+   
+    margin: 40px;
+    text-decoration: none;
+    color: blue;
+    
+}
+ul{
+    background-color: black;
+    height: 120px;
+}
+.rasm{
+   width: 100%;
+    height: 770px;
+    
+    
+}
+h1{
+    font-size: 30px;
+    margin-left: 40px;
+}
+.wrapper{
+   
+    width: 1800px;
+    height: auto;
+}
+.class{
+   
+    display: inline-flex;
+    width: 1798px;
+}
+p{
+    width: 1000px;
+    height: 200px;
+    margin: 30px;
+
+    
+}
+button{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 50px;
+    left: 47.5%;
+}
+.yozuv{
+    background-color: blue;
+}
+.services{
+    position: relative;
+    left: 80%;
+    font-size: 30px;
+}
+.teg{
+    position: relative;
+    left: 60%;
+    font-size: 30px;
+}
+a:hover{
+    background-color: brown;
+    color: cyan;
+    
+}
+.gaz{
+    border: 3px groove black;
+    width: 200px;
+    height: 300px;
+    
+    text-align: center;
+    background-color: azure;
+}
+.img{
+    display: inline-flex;
+    position: relative;
+    bottom: 150px;
+    left: 15%;
+}
+.PORTFOLIO{
+    position: relative;
+    left: 10%;
+}
+.lorem{
+    position: relative;
+    left: 10%;  
+}
+.rasms{
+    position: relative;
+    left: 7%;
+    margin: 20px;
+    bottom: 150px ;
+}
+.LETEST{
+    position: relative;
+    left: 67%;
+}
+.there{
+    position: relative;
+    left: 63%;  
+    bottom:  150px ;
+}
+.jpg{
+    bottom:  150px ;
+    position: relative;
+    left: 10%;
+    margin: 30px;
+} 
